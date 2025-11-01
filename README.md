@@ -7,7 +7,7 @@
   <a href="mailto:saramagdyahmed6@gmail.com">saramagdyahmed6@gmail.com</a> •
   <a href="tel:+201122297688">+20 112 229 7688</a> •
   <a href="https://sara-elsharqawy.vercel.app" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>
+  <a href="www.linkedin.com/in/sara-elshrqawy-7b7a28103" target="_blank">LinkedIn</a>
 </p>
 
 ---
@@ -86,13 +86,7 @@ Senior Fullstack Developer specializing in building scalable, performant web app
 
 ---
 
-## 📫 Get In Touch
-- Email: saramagdyahmed6@gmail.com  
-- Phone: +20 112 229 7688  
-- Portfolio: https://sara-elsharqawy.vercel.app  
-- LinkedIn: Add your profile link here
 
----
 
 ## 🔧 What I’m Great At
 - Building modern SPAs with Vue/Nuxt and Angular
