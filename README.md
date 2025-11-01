@@ -24,7 +24,7 @@ Senior Fullstack Developer specializing in building scalable, performant web app
 ## 🛠️ Technical Expertise
 
 - Frontend: Vue.js, Nuxt.js, Angular, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS  
-- Backend: Laravel, PHP, Node.js, RESTful APIs, GraphQL  
+- Backend: Laravel, PHP, Node.js, RESTful APIs  
 - Databases: MySQL, PostgreSQL, MongoDB, Redis  
 - Cloud & DevOps: AWS, A2 Hosting, DNS Management, Domain Setup  
 - Tools: Git, Jira, Jenkins, Docker, CI/CD
